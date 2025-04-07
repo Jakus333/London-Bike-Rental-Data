@@ -8,3 +8,9 @@ Time frame: 2 Weeks (March - April 2025)
 Software:
 
 Power BI
+
+Source:
+
+https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset/data
+
+Powered by TfL Open Data - Contains OS data © Crown copyright and database rights 2016' and Geomni UK Map data © and database rights [2019]. 
